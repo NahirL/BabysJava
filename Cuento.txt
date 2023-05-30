@@ -1,4 +1,4 @@
-"Había una vez un/a intrépido/a aventurero/a llamado/a __________ (nombre del personaje). Su apariencia era __________ (descripción física detallada), con ojos brillantes y una sonrisa encantadora. Todos los días, le encantaba __________ (actividad favorita) y se deleitaba en explorar los rincones más remotos del mundo en busca de emociones y descubrimientos.
+"Había una vez un/a intrépido/a aventurero/a llamado/a _____PEdro_____ (nombre del personaje). Su apariencia era __grotesca________ (descripción física detallada), con ojos brillantes y una sonrisa encantadora. Todos los días, le encantaba _____correr_____ (actividad favorita) y se deleitaba en explorar los rincones más remotos del mundo en busca de emociones y descubrimientos.
 
 Hasta que un día algo le sucedió, nunca pensó que enfrentaría un desafío tan grande. Mientras exploraba una antigua ruina perdida en lo profundo de la selva, __________ (nombre del personaje) se encontró con una criatura mágica. Esta criatura, con escamas brillantes y alas majestuosas, era un dragón ancestral llamado __________ (nombre del dragón).
 
@@ -12,5 +12,3 @@ Con una estrategia audaz y palabras sabias, __________ (nombre del personaje) lo
 
 Regresando al hogar, __________ (nombre del personaje) fue recibido/a como un/a verdadero/a héroe/heroína. Su valentía y determinación habían asegurado un futuro próspero para el reino y su gente. Desde ese día en adelante, __________ (nombre del personaje) se convirtió en una leyenda viva, inspirando a otros a seguir sus pasos y perseguir sus propios sueños de aventura y descubrimiento."
 
-
-"Soy otro cambioooo"
