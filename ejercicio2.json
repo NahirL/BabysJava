@@ -1,0 +1,46 @@
+{
+  "nombre": "BabysJava",
+  "numero": 12,
+  "integrantes": [
+    {
+      "nombre": "camila",
+      "discord": ""
+    },
+    {
+      "nombre": "Cinthya",
+      "discord": ""
+    },
+    {
+      "nombre": "Eddy",
+      "discord": ""
+    },
+    {
+      "nombre": "Fernando",
+      "discord": ""
+    },
+    {
+      "nombre": "ElKev",
+      "discord": ""
+    },
+    {
+      "nombre": "Francisco",
+      "discord": ""
+    },
+    {
+      "nombre": "Gabriel",
+      "discord": ""
+    },
+    {
+      "nombre": "Nahir",
+      "discord": ""
+    },
+    {
+      "nombre": "Rodrigo Leal",
+      "discor": ""
+    },
+    {
+      "nombre": "Rodrigo Nuñez",
+      "discor": ""
+    }
+  ]
+}
