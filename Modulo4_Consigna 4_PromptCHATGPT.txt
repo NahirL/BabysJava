@@ -1,0 +1,8 @@
+Genera un archivo JSON con preguntas y respuestas para un juego de trivia. Cada pregunta debe tener las siguientes propiedades:
+
+idPregunta: un número entero que identifica a la pregunta.
+pregunta: el enunciado de la pregunta.
+opciones: una lista de cuatro opciones de respuesta (una de ellas es la correcta).
+respuestaOk: la opción de respuesta correcta.
+explicacion: una explicación detallada de por qué esa opción es la correcta.
+Asegúrate de que cada vez que se genere el archivo JSON, se generen preguntas de diferentes temáticas y se obtenga un resultado en formato JSON puro, sin ningún texto adicional, facilitando así su copiado y pegado.
