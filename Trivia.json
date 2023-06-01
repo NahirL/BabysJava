@@ -1,0 +1,82 @@
+
+{
+  "triviax": [
+    {
+      "pregunta": "¿Cuál es el río más largo del mundo?",
+      "opciones": [
+        "El río Amazonas",
+        "El río Nilo",
+        "El río Misisipi",
+        "El río Yangtsé"
+      ],
+      "respuestaCorrecta": "El río Nilo",
+      "explicacion": "El río Nilo, con una longitud de aproximadamente 6650 kilómetros, es generalmente considerado el río más largo del mundo."
+    },
+    {
+      "pregunta": "¿Quién escribió la novela '1984'?",
+      "opciones": [
+        "George Orwell",
+        "Aldous Huxley",
+        "Ray Bradbury",
+        "Ernest Hemingway"
+      ],
+      "respuestaCorrecta": "George Orwell",
+      "explicacion": "'1984' es una novela de distopía política escrita por George Orwell. Se publicó por primera vez en 1949."
+    },
+    {
+      "pregunta": "¿Cuál es el planeta más grande del sistema solar?",
+      "opciones": [
+        "Saturno",
+        "Júpiter",
+        "Neptuno",
+        "Urano"
+      ],
+      "respuestaCorrecta": "Júpiter",
+      "explicacion": "Júpiter es el planeta más grande del sistema solar, tanto en diámetro como en masa."
+    },
+    {
+      "pregunta": "¿Quién pintó la Mona Lisa?",
+      "opciones": [
+        "Vincent van Gogh",
+        "Pablo Picasso",
+        "Leonardo da Vinci",
+        "Claude Monet"
+      ],
+      "respuestaCorrecta": "Leonardo da Vinci",
+      "explicacion": "La Mona Lisa es una pintura del renacimiento italiano creada por Leonardo da Vinci en el siglo XVI."
+    },
+    {
+      "pregunta": "¿En qué año se terminó de construir la Torre Eiffel?",
+      "opciones": [
+        "1889",
+        "1900",
+        "1910",
+        "1920"
+      ],
+      "respuestaCorrecta": "1889",
+      "explicacion": "La Torre Eiffel fue terminada en 1889 para la Exposición Universal celebrada en París ese mismo año."
+    },
+    {
+      "pregunta": "¿Cuál es la capital de Australia?",
+      "opciones": [
+        "Sydney",
+        "Melbourne",
+        "Perth",
+        "Canberra"
+      ],
+      "respuestaCorrecta": "Canberra",
+      "explicacion": "Aunque Sydney y Melbourne son las ciudades más conocidas de Australia, la capital es Canberra."
+    },
+    {
+      "pregunta": "¿Cuántos huesos hay en el cuerpo humano adulto?",
+      "opciones": [
+        "206",
+        "212",
+        "224",
+        "232"
+      ],
+      "respuestaCorrecta": "206",
+      "explicacion": "El cuerpo humano adulto tiene 206 huesos. Sin embargo, al nacer tenemos alrededor de 270 huesos, algunos de los cuales se fusionan a medida que crecemos."
+    }
+  ]
+}
