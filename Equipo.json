@@ -1,0 +1,46 @@
+{
+  "equipo": {
+    "nombreEquipo": "Los BabysJava",
+    "numeroEquipo": "5656",
+    "integrantes": [
+      {
+        "nombre": "Camila",
+        "discordID": "Camila.#4425"
+      },
+      {
+        "nombre": "Cinthya Barahona",
+        "discordID": "Cinthya Barahona#7198"
+      },
+      {
+        "nombre": "eddybolivia",
+        "discordID": "eddybolivia#0075"
+      },
+      {
+        "nombre": "Fernando Ereño",
+        "discordID": "Fernando Ereño#5519"
+      },
+      {
+        "nombre": "Francisco Ortega FT-36b",
+        "discordID": "Francisco Ortega FT-36b#5995"
+      },
+      {
+        "nombre": "Gabriel Briceño",
+        "discordID": "Gabriel Briceño#7673"
+      },
+      {
+        "nombre": "Nahir Leiva",
+        "discordID": "Akkeno023#1827"
+      },
+      {
+        "nombre": "Rodrigo Leal",
+        "discordID": "Rodrigo Leal#6744"
+      },
+      {
+        "nombre": "Rodrigo Nuñez",
+        "discordID": "Rodrigo Nuñez#7090"
+      }
+    ]
+  }
+}
+
+
