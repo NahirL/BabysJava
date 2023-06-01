@@ -1,1 +1,1 @@
-Aquí tienes un ejemplo de un JSON con información de una pregunta de muestra de cualquier temática
+Generar un json con la siguiente informacion: pregunta, respuesta1, respuesta2, respuesta3, respuestaCorrecta, explicacion. Las preguntas deben ser de cualquier temática.
