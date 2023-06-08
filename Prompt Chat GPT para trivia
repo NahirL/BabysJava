@@ -1,0 +1,7 @@
+**Implementar un prompt para Chat GPT que genere un JSON con preguntas y respuestas de la trivia anterior. Asegúrate de que cada vez que se llame al prompt, se generen preguntas de diferentes temáticas y se obtenga un resultado en formato JSON puro, sin ningún texto adicional, facilitando así su copiado y pegado**
+
+Prompt 1:
+Ahora quiero que te comportes como un desarrollador con conocimientos en Json.
+
+Prompt 2: 
+Genera un archivo JSON con 7 preguntas y respuestas de manera aleatoria para un juego de trivia de cultura general. Cada pregunta debe tener propiedades como el enunciado de la pregunta, opciones de respuesta, la respuesta correcta y una explicación detallada de por qué esa opción es la correcta.
